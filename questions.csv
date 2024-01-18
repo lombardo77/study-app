@@ -1,0 +1,5 @@
+what is the derivative of x^2+78	2x
+one nested 'For loop' will give you what time complexity	O(n^2))	O(n log(n))	O(n)	O(1)
+How does one implement a LinkedList?	List<T>  name = new LinkedList<T>();	List = LinkedObject<T>;	List = LinkedObject<T>;	LinkedList(new int[9]);
+integrate x^2+2x (use parenthesis)	(x^3/3)+x^2
+what is the capital of Uruguay?	Montevideo	Monte Carlo	Montenegro	Monte De La Villa
